@@ -1,5 +1,7 @@
 # Customer Intelligence - Big Deals Dashboard
 
+![Dashboard](FinalResult.jpg)
+
 ## Project Overview
 This project focuses on building a real-time **Big Deals** dashboard using Power BI. The goal is to visualize and analyze sales opportunities with significant contract values (Full Contract Value, FCV) across different stages of the sales funnel, with a special focus on geographical regions and sectors (public vs. private). The data is normalized to track these opportunities, and a threshold for defining "Big Deals" varies based on the region.
 

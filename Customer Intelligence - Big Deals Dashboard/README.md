@@ -9,7 +9,9 @@ This project focuses on building a real-time **Big Deals** dashboard using Power
 - **Real-time Visualization**: Display KPIs and metrics for "Big Deals" in the sales funnel.
 - **Sales Funnel Analysis**: Track opportunities in stages F2 to F5.
 - **Geographical and Sector Insights**: Understand Big Deal distribution by region (Americas, Spain) and sector (Public vs. Private).
-  
+
+![Funnel](Funnel.png)
+
 ## KPIs and Metrics
 1. **2024 Spain Current Funnel**:
    - Total Value (M€): Sum of FCV for opportunities in stages F2 - F5.

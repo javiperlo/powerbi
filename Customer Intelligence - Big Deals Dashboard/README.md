@@ -35,4 +35,4 @@ This project focuses on building a real-time **Big Deals** dashboard using Power
 ## Tools & Technologies 
 - **Power BI**: Main tool used for building the dashboard and performing data visualizations.
 - **DAX**: For calculations and KPIs within Power BI.
-- **Data Sources**: Raw sales and opportunity data **Data is Private for this project**
+- **Data Sources**: Raw sales and opportunity data | **Data is Private for this project**
